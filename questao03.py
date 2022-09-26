@@ -1,7 +1,7 @@
-n1 = int(input("digite um primeiro número: "))
-n2 = int(input("digite um segundo número: "))
+num1 = int(input("digite um primeiro número: "))
+num2 = int(input("digite um segundo número: "))
 
-if n1 > n2:
-    print(f"o maior número é: {n1}")
-else:
-    print(f"o maior número é: {n2}")
+if num1 > num2:
+    print(f"o maior número é: {num1}")
+    else:
+        print(f"o maior número é: {num2}")
